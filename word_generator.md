@@ -42,6 +42,10 @@ Download script [here](http://guilhermegarcia.github.io/resources/scripts/word_g
 
 -----
 
+tutaj podane są częstości liter dla języka polskiego http://klawa.pl/wpis/statystyki-wystepowania-liter-i-bigramow-w-jezyku-polskim
+
+-----
+
 ```{R}
 
 # Copyright (c) 2014 Guilherme Duarte Garcia
